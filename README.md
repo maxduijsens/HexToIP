@@ -3,7 +3,7 @@ HexToIP
 
 Convert Hex notation IP addresses into CIDR notation
 
-Convert 0x000000000000asasdfasf IP addresses to 123.123.123.123
+Convert 0x000000000000abcdefabc IP addresses to 123.123.123.123
 - Input: input.txt list of newline separated ip's in Foundstone format
 - Output: output.txt list of newline separated ip's in CIDR format
 
